@@ -32,3 +32,4 @@ export function Dav(props) {
 }
 
 useGLTF.preload("/3D AGROTREND.gltf");
+//nota
